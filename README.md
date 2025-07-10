@@ -1,0 +1,1 @@
+# bitrise-step-google-console-rollout-manager
